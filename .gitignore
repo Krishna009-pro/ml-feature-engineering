@@ -10,7 +10,8 @@ __pycache__/
 *.py
 
 # Data & Models
-*.csv
+/Titanic/*.csv
+
 *.joblib
 *.pkl
 *.pickle
@@ -30,3 +31,5 @@ venv/
 bin/
 lib/
 share/
+
+my_Understanding.md
