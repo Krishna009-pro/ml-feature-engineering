@@ -1,0 +1,32 @@
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py
+
+# Data & Models
+*.csv
+*.joblib
+*.pkl
+*.pickle
+
+# Images & Assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Environment
+.env
+.venv
+env/
+venv/
+bin/
+lib/
+share/
